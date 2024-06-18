@@ -1,0 +1,11 @@
+node_modules/
+SQL/
+package-lock.json
+package.json
+question.cvs
+tailwind.config.js
+postcss.config.js
+.ENV
+sample2_get.php
+sample.php
+sample2.phpbk

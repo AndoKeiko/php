@@ -1,0 +1,1245 @@
+* {
+  box-sizing: border-box;
+}
+html, body {
+  min-height: 100%;
+  margin: 0;
+  /* overflow: hidden; */
+}
+body {
+  text-align:left;
+  font-size: 16px;
+  color: #333;
+<<<<<<< HEAD
+  background: #fff;
+=======
+  background: #fafafa;
+>>>>>>> 3da83af (PHP選手権用提出)
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: .05rem;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+.input_text_box {
+  display: flex;
+  align-items: flex-start;
+}
+@media(max-width: 768px){
+  .input_text_box {
+  width: 100%;
+  }
+}
+.error {
+  color: #4260a1;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.header {
+  width: 100%;
+  padding: 0;
+  background: #2d89bf;
+  color: #fff;
+  position: relative;
+<<<<<<< HEAD
+}
+.header .h1 {
+  font-size: 1.8rem;
+  margin-top: 1.5rem;
+  color: #fff;
+=======
+  border-bottom-left-radius: 1000px 200px;
+  border-bottom-right-radius: 1000px 200px;
+  height: 150px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.header .h1 {
+  font-size: 1.8rem;
+  margin-top: 0rem;
+  color: #fff;
+  margin-right: 38rem;
+}
+.header .h1 a {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.header .h1 a img {
+  margin-right: 1rem;
+>>>>>>> 3da83af (PHP選手権用提出)
+}
+.header button[type="submit"]{
+  margin: 0 auto;
+  padding: 0.2rem 0.25rem;
+  display: inline-block;
+  color: #4260a1;
+  font-size: 1rem;
+  position: absolute;
+  right: .5rem;
+  top: 12%;
+}
+.header button[type="submit"]:hover {
+  opacity: .7;
+}
+.header .container {
+  position: relative;
+<<<<<<< HEAD
+  /* max-width: 100%; */
+  /* margin: 0 10rem; */
+=======
+>>>>>>> 3da83af (PHP選手権用提出)
+  color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+<<<<<<< HEAD
+  align-items:flex-start;
+  height: 5.625rem;
+  z-index: 10;
+=======
+  align-items: center;
+  height: 5.625rem;
+  z-index: 10;
+  padding-top: 2.5rem;
+>>>>>>> 3da83af (PHP選手権用提出)
+}
+.header #header_search {
+  position: relative;
+}
+.header .input_text {
+  padding: .4rem 1rem;
+  border-radius: 5rem;
+  border: 1px solid #4260a1;
+  background-color: #fff;
+  width: 100%;
+  position: relative;
+}
+<<<<<<< HEAD
+=======
+.header input[type="text"].input_text {
+  border: 1px solid #4260a1;
+  background-color: #fff;
+  color: #4260a1;
+}
+>>>>>>> 3da83af (PHP選手権用提出)
+.header .unav {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 1rem;
+  z-index: 10;
+}
+.header .unav .unav_item {
+  width: 2rem;
+  height: 2rem;
+  margin: 0 .2rem;
+}
+.header .unav .unav_item i {
+  font-size: 1.5rem;
+  color: #fff;
+}
+.sub_unav_item {
+  display: none;
+  width: 10rem;
+  flex-direction: column;
+}
+.unav_item.prof {
+  position: relative;
+}
+.unav_item.prof:hover {
+  cursor: pointer;
+}
+.unav_item.prof:hover .sub_unav_item {
+  display: flex;
+}
+.sub_unav_item .sub_unav_item {
+  font-size: 1rem;
+  padding: .3rem;
+  background-color: #d0dae0;
+  z-index: 10;
+  color: #333;
+}
+.header .left_box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+<<<<<<< HEAD
+  margin-top: 1.5rem;
+=======
+  margin-top: .5rem;
+>>>>>>> 3da83af (PHP選手権用提出)
+}
+
+.wave-svg-inline{
+  background-color: #2D89BF;
+  width: 100%;
+  height: 80px;
+  position: relative;
+}
+.wave-svg-inline svg{
+  width: 100%;
+  height: 140px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  fill: #fafafa; /* 色を変更 */
+  z-index: 0;
+}
+.footer .wave-svg-inline {
+  background-color: #fafafa;
+}
+.footer .wave-svg-inline svg{
+  fill: #2d89bf; /* 色を変更 */
+}
+.loop_books {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  width: 100%;
+  margin: 0 auto;
+  gap: 3rem 2%;
+}
+.loop_books .detail_box {
+  width: 100%;
+}
+.loop_books .loop_books_item {
+  /* width: 100%; */
+  width: 12%;
+  display: flex;
+  justify-content: center;
+border-radius: 10px;
+}
+.loop_books.book_shelf .loop_books_item {
+  /* border-bottom: 10px solid #949494; */
+  padding: 1.2rem;
+  align-items: flex-end;
+  border-radius: 0;
+    background:
+      linear-gradient(
+        90deg,
+        rgba(208, 147, 82, 0.6),
+        rgba(192, 134, 70, 0.6) 60%,
+        rgba(208, 147, 82, 0.6)
+      ),
+      repeating-radial-gradient(
+        ellipse at 60% 500%,
+        #c08646,
+        #c08646 0.2%,
+        #d09352 0.6%,
+        #d09352 1%
+      );
+position: relative;
+}
+.loop_books.book_shelf .loop_books_item:after {
+  content: "";
+  height: 20px;
+  width: 100%;
+  background:
+  repeating-radial-gradient(
+    circle at -1000% 0%,
+    rgba(116, 77, 48, 0.7),
+    #573216 7.5%,
+    rgba(116, 77, 48, 0.9) 10%
+  ),
+  repeating-radial-gradient(
+    circle at -1000% 0%,
+    #573216,
+    #573216 0.1%,
+    #744d30 0.4%,
+    #744d30 0.5%
+  );
+  position: absolute;
+  bottom: 0;
+}
+.loop_books.book_shelf .loop_books_item img {
+  box-shadow:  1px 1px 10px 5px #777777;
+}
+<<<<<<< HEAD
+=======
+.loop_books.book_shelf .loop_books_item img:hover {
+  cursor: pointer;
+}
+>>>>>>> 3da83af (PHP選手権用提出)
+.loop_books.index .loop_books_item {
+  width: 100%;
+}
+.loop_books .detail_box .loop_books_item a {
+  width: 100%;
+  padding: 1.0rem 0 1.1rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.loop_books .loop_books_item figure {
+  width: 8rem;
+  overflow: hidden;
+  margin: 0 auto;
+  box-shadow: 0px 1px 7px 0px #a1a1a1;
+}
+.loop_books .loop_books_item:hover figure {
+  box-shadow: 0px 3px 15px 0px #a1a1a1;
+}
+.loop_books .loop_books_item img {
+  margin: 0 auto;
+  transition: .3s;
+
+}
+/* .loop_books .loop_books_item:hover img {
+  transform: scale(1.2);
+}
+.loop_books .loop_books_item:hover .message_top_box img {
+  transform: scale(1);
+} */
+.books_item_text {
+  margin-top: auto;
+<<<<<<< HEAD
+}
+.book_item_title {
+  font-weight: bold;
+=======
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+}
+.book_item_title {
+  font-weight: bold;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+>>>>>>> 3da83af (PHP選手権用提出)
+}
+.loop_books.book_shelf {
+    /* background: #d2d2d2; */
+    padding: 1.5rem 1rem 1.5rem;
+    gap: 3rem 0;
+    justify-content: flex-start;
+}
+.main {
+  min-height: 100vh;
+  background: #fafafa;
+  flex: 1;
+}
+.main .container {
+  margin: 0 auto 0;
+  padding: 3rem 0 3rem;
+  /* max-width: 62.5rem; */
+}
+.main .h2 {
+  text-align: left;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  color: #4260a1;
+  width: 100%;
+}
+.main .h2 img {
+  display: inline-block;
+  margin-right: 1rem;
+  border-radius: 50%;
+}
+.main .login_form {
+  background-color: rgba(255, 255, 255, .8);
+  padding: 3rem 2rem 3rem;
+  box-shadow: 0px 0px 10px -5px #e5e8f1;
+  border-radius: 6px;
+  border: 1px solid #e5e8f1;
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+@media(max-width:768px) {
+  .main {
+    margin: 2rem 1rem;
+    padding: 5rem 2.5rem;
+  }
+}
+.main .mb2 {
+  margin-bottom: 2.8rem;
+}
+.main .w25 {
+  width: 25rem;
+  display: inline-block;
+}
+.main .input_text {
+  padding: .5rem 1rem;
+  margin-bottom: .8rem;
+  border-radius: 0rem;
+  border: 1px solid #d0dae0;
+  background-color: #fff;
+  width: 290px;
+}
+.main .input_text.short_box {
+  width: 8rem;
+}
+<<<<<<< HEAD
+=======
+.main .input_text#intitle {
+  margin-right: 2rem;
+}
+>>>>>>> 3da83af (PHP選手権用提出)
+@media(max-width:768px) {
+  .main .w25 {
+    width: 100%;
+    display: inline-block;
+}
+  .main .input_text {
+    margin: 1rem auto;
+    padding: .5rem 1rem;
+    width: 100%;
+}
+}
+/* .main .input_text:nth-child(2) {
+  margin-bottom: 0rem;
+} */
+.main .input_text:focus {
+  border: 2px solid #18244d; /* フォーカス時の枠の色 */
+  outline: none; /* デフォルトのフォーカス枠を消す */
+}
+.main .input_text_lbl {
+  width: 6rem;
+  display: inline-block;
+  margin-right: 1rem;
+  margin-top: .3rem;
+  margin-bottom: .5rem;
+}
+.login_box .label{
+  margin-right: 1rem;
+  width: 7rem;
+  display: block;
+  white-space: nowrap;
+}
+.login_box .input_text{
+  margin-right: 1rem;
+}
+.login_box .input_text.text_memo {
+  width: calc(100% - 8rem);
+}
+.search_box {
+  margin: 0 auto 1.5rem;
+<<<<<<< HEAD
+}
+.search_btn {
+  margin: 0 auto 0;
+=======
+  text-align: center;
+}
+.search_btn {
+  margin: 0 0 0 1.5rem;
+>>>>>>> 3da83af (PHP選手権用提出)
+  padding: .5rem 1rem;
+  color: white;
+  background-color: #4260a1;
+  border-radius: 15rem;
+  display: inline-block;
+}
+.search_btn:hover {
+  opacity: .7;
+}
+<<<<<<< HEAD
+.login_form .submit_btn {
+=======
+.submit_btn {
+>>>>>>> 3da83af (PHP選手権用提出)
+  margin: 2rem auto 1rem;
+  padding: 1.2rem 0;
+  width: 75%;
+  color: white;
+  background-color: #4260a1;
+  border-radius: 15rem;
+  display: block;
+}
+<<<<<<< HEAD
+.login_form .submit_btn:hover {
+  opacity: .7;
+}
+.login_form .signup_btn {
+  margin: 1rem auto 1rem;
+  padding: 1.2rem 0;
+  width: 75%;
+=======
+.submit_btn:hover {
+  opacity: .7;
+}
+.signup_btn {
+  margin: 1rem auto 1rem;
+  padding: 1.2rem 0;
+  width: 300px;
+>>>>>>> 3da83af (PHP選手権用提出)
+  color: white;
+  background-color: #ffa000;
+  border-radius: 15rem;
+  display: block;
+<<<<<<< HEAD
+}
+.login_form .signup_btn:hover {
+  opacity: .7;
+}
+=======
+  text-align: center;
+}
+.signup_btn:hover {
+  opacity: .7;
+}
+.signup_btn.login {
+  background-color: #4260a1;
+  padding: 1.2rem 1.5rem;
+  width: 250px;
+text-align: center;
+}
+>>>>>>> 3da83af (PHP選手権用提出)
+.main .booklist_form {
+  background-color: rgba(255, 255, 255, .8);
+  padding: 3rem 2rem 5rem;
+  box-shadow: 0px 0px 10px -5px #e5e8f1;
+  border-radius: 6px;
+  border: 1px solid #e5e8f1;
+  width: 980px;
+  margin: 0 auto;
+  text-align: center;
+}
+.main .detail_box {
+  display: flex;
+  justify-content: center;
+  gap: 0 4rem;
+  flex-wrap: wrap;
+}
+.main .detail_sns {
+  display: flex;
+  justify-content: center;
+  gap: 0 4rem;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.main .detail_sns .h2 {
+  width: 100%;
+  font-size: 1.5rem;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+.detail_sns .review_box {
+  border: 1px #dcdcdc solid;
+  padding: 1.5rem 2rem;
+  width: 100%;
+  text-align: left;
+}
+.main .index .detail_box {
+  width: 12%;
+}
+.main .detail_box .detail_left {
+  text-align: left;
+  width: 220px;
+}
+.bookitem_title {
+  font-size: 2rem;
+}
+.bookitem_title span {
+  font-size: 1.5rem;
+  margin-left: 1rem;
+}
+.main .detail_box .detail_left img {
+  width: 220px;
+  height: auto;
+}
+.main .detail_box .detail_right {
+  width: 39.1rem;
+  text-align: left;
+}
+.book_btn {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4rem;
+  gap: 0 2rem;
+}
+.book_btn .book_btn_item {
+  width: 45%;
+  text-align: center;
+}
+.book_btn .book_btn_item button[type='submit'] {
+  height: 3rem;
+  line-height: 3rem;
+  color: #fff;
+  background-color: #4260a1;
+  display: inline-block;
+  width: 100%;
+}
+.book_btn .book_btn_item a {
+  height: 3rem;
+  line-height: 3rem;
+  color: #fff;
+  background-color: #4260a1;
+  display: inline-block;
+  width: 100%;
+}
+.book_item_description {
+  margin-top: 2rem;
+}
+.footer {
+  position: relative;
+  bottom: 0;
+  height: 50px;
+}
+.footer .wave {
+  position: absolute;
+  height: 33px;
+  width: 100%;
+  background: #E3F2FD;
+  bottom: 0;
+  overflow-x: hidden;
+  overflow: visible;
+}
+
+.footer .wave::before, .footer .wave::after {
+  content: "";
+  display: block;
+  position: absolute;
+  border-radius: 50% 100%;
+}
+
+.footer .wave::before {
+  width: 53%;
+  height: 100%;
+  background-color: #fafafa;
+  right: -1.5%;
+  top: -64%;
+}
+.footer .wave::after {
+  width: 55%;
+  height: 109%;
+  background-color: #E3F2FD;
+  left: -1.5%;
+  top: -60%;
+}
+
+
+/**/
+/*ポップアップ*/
+.popup-wrapper {
+  background-color: rgba(0, 0, 0, .5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+  z-index: 1020;
+}
+.popup-wrapper.active {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.popup-inside {
+  text-align: center;
+  width: 100%;
+  max-width: 900px;
+  background: white;
+  margin: 10% auto;
+  padding: 0;
+  position: relative;
+}
+.category_list {
+  width: 15.625rem;
+  border: 1px solid #4260a1;
+}
+.cate_name {
+  border: 1px solid #4260a1;
+  padding: .2rem;
+  width: 100%;
+}
+.cate_plus_btn {
+  margin-left: 1rem;
+}
+.cate_plus_wrap {
+  /* display: none; */
+  background-color: rgba(0, 0, 0, .5);
+  position: fixed;
+  top:0;
+  left: 0;
+  display: none;
+  width: 200%;
+  height: 100%;
+}
+.cate_plus_wrap.active {
+  z-index: 1222;
+  display: flex;
+}
+.cate_plus_wrap_inner {
+  display: flex;
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  /* transform: translate(-89%, 0); */
+  width: 500px;
+  height: 185px;
+  background: #fff;
+  flex-direction: column;
+  padding: 1rem;
+}
+.cate_title {
+  margin-bottom: 1rem;
+}
+.cate_plus_btn_box {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1.5rem;
+}
+.ok_btn,
+.cancel_btn {
+padding: .6rem 1.2rem;
+background: #e4edfe;
+width: 48%;
+}
+.message {
+  line-height: 1.8rem;
+}
+.message .btn_box {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  gap: 0 1.5rem;
+  margin: 1.5rem auto 0;
+}
+.message .btn_box a {
+  background: #4260a1;
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: .1rem .2rem;
+}
+.message_top_right .shop_btn {
+  color: #fff;
+  background-color: #4260a1;
+  display: inline-block;
+  padding: .1rem .2rem;
+  text-decoration: none;
+  }
+.popup-close {
+  position: relative;
+  cursor: pointer;
+  font-size: 1.2rem;
+  width: 100%;
+  margin: 0 0 1rem;
+  background: #eee;
+  padding: .3rem 0;
+}
+.popup-close span {
+  font-size: 3rem;
+  position: absolute;
+  right: 1rem;
+}
+.popup-title {
+  font-size: .8rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.popup-title span {
+  font-size: 1.2rem;
+  color: rgb(77, 138, 253);
+  display: inline-block;
+  margin: .5rem 0;
+}
+.popup-inside h2 {
+  font-size: 1.5rem;
+  margin-bottom: 2.5rem;
+  font-weight: bold;
+}
+.popup-title02 {
+  font-size: 1.5rem;
+  margin-bottom: 2.5rem;
+  font-weight: bold;
+}
+.popup-q {
+  margin: .5rem 0 1rem;
+}
+.popup-a {
+  display: none;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.popup-a.active {
+  display: block;
+}
+.message_top_box {
+  display:flex;
+  justify-content: flex-start;
+  padding: 1rem 5rem;
+  gap: 0 4rem;
+}
+.message_top_left {
+  width: 17%;
+}
+.message_top_right {
+  text-align: left;
+  width: 70%;
+}
+/* input[name="message_rate"]{
+  display: none;
+} */
+  /* カスタムチェックボックスのスタイル */
+  .massage_rate {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    position: relative;
+    cursor: pointer;
+    color: #a1a1a1;
+    transition: background-color 0.3s ease;
+}
+
+/* チェックボックスがチェックされたときのスタイル */
+.message_rate input[type="radio"]:checked + .massage_rate_item {
+  color: #fffb00;
+}
+.message_rate .massage_rate_item:hover {
+  cursor: pointer;
+}
+/* チェックマークとして★を表示 */
+/* .message_rate input[type="radio"]:checked + .massage_rate_item::after {
+    content: '★';
+    color: #ffa000;
+    font-size: 18px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
+.message_middle_box {
+  z-index: 1021;
+  position: relative;
+}
+.message_middle_box dl {
+  width: 100%;
+  padding: 1rem 4rem;
+  display: flex;
+}
+.message_middle_box .valuation_title {
+  width: 20%;
+  text-align: left;
+  padding: 0 1rem;
+}
+.message_middle_box .valuation_column {
+  width: 80%;
+  text-align: left;
+  padding: 0 1rem;
+  display: flex;
+  z-index: 1030;
+  position: relative;
+}
+.message_middle_box #publicationStatus{
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.message_middle_box #publicationStatus  + label {
+  width: auto;
+  display: inline-block;
+  text-align: center;
+  margin-right: 1rem;
+  padding: .6rem 1.2rem;
+  background: #e4edfe;
+  border-radius: .5rem;
+}
+.message_middle_box #publicationStatus:checked + label {
+  background-color: #477ee6;
+  color: white;
+  border-color: #007BFF;
+}
+.message_middle_box .valuation_column input[type="radio"]{
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.message_middle_box .valuation_column label {
+  display: inline-block;
+  text-align: center;
+  margin-right: .3rem;
+  padding: .6rem 1.7rem;
+  background: #e4edfe;
+  border-radius: .5rem;
+  font-size: .85rem;
+}
+.message_middle_box .valuation_column input[type="radio"]:checked + label {
+  background-color: #477ee6;
+  color: white;
+  border-color: #007BFF;
+}
+.message_middle_box dd label:hover {
+  cursor: pointer;
+}
+.message_bottom_box {
+  padding: 1rem 5rem;
+  text-align: left;
+  margin-bottom: 3rem;
+  z-index: 1021;
+  position: relative;
+}
+.message_review {
+  width: 100%;
+  border: 1px solid #4260a1;
+
+}
+.valuation_column textarea {
+  width: 100%;
+  border: 1px solid #4260a1;
+}
+label {
+  pointer-events: auto; /* これがデフォルトですが、念のため確認 */
+}
+/*
+.message_rate input[type="radio"] {
+  margin-right: .5rem;
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.message_rate input[type="radio"]:checked + label {
+  background-color: #477ee6;
+  color: #ffa000;
+  border-color: #007BFF;
+} */
+/* .message_rate {
+  margin-right: 1rem;
+  padding: .6rem 1.2rem;
+  background: #e4edfe;
+  border-radius: .5rem;
+} */
+
+.chk_box {
+  margin: 2rem 0 1rem auto;
+  z-index: 1030;
+  position: relative;
+}
+.chk_box input[type="radio"] {
+  margin-right: .5rem;
+  display: none;
+}
+.chk_box input[type="radio"]:checked + label {
+  background-color: #477ee6;
+  color: white;
+  border-color: #007BFF;
+
+}
+.chk_box label {
+  margin-right: 1rem;
+  padding: .6rem 1.2rem;
+  background: #e4edfe;
+  border-radius: .5rem;
+}
+@media(max-width:768px){
+  .chk_box {
+    margin: 0 0 0 auto;
+  }
+  .chk_box label {
+    width: 100%;
+    display: inline-block;
+  }
+  .chk_box label {
+    margin-top: .5rem;
+  }
+}
+.chk_box label:hover {
+  cursor: pointer;
+}
+.message_rate {
+  margin: 0 0 1rem auto;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end
+}
+.message_rate label {
+  display: block;
+  width: 2rem;
+  height: 2rem;
+  font-size: 2rem;
+}
+.message_rate span {
+  width: 32px;
+  height: 32px;
+  background-image: url('../img/star-off.png');
+  background-size: cover;
+  cursor: pointer;
+}
+<<<<<<< HEAD
+
+=======
+.message_rate.home span {
+  width: 26px;
+  height: 26px;
+  background-image: url('../img/star-off.png');
+  background-size: cover;
+  cursor: pointer;
+}
+>>>>>>> 3da83af (PHP選手権用提出)
+.message_rate span:hover,
+.message_rate span:hover ~ span {
+  background-image: url('../img/star-on.png');
+}
+<<<<<<< HEAD
+
+=======
+.message_rate.home span:hover,
+.message_rate.home span:hover ~ span {
+  background-image: url('../img/star-off.png');
+}
+>>>>>>> 3da83af (PHP選手権用提出)
+.message_rate span.active {
+  background-image: url('../img/star-on.png');
+}
+.save_btn {
+  margin: 2rem auto 1rem;
+  padding: .6rem 0;
+  width: 75%;
+  color: white;
+  background-color: #4260a1;
+  border-radius: 15rem;
+  display: block;
+}
+<<<<<<< HEAD
+=======
+.prof_name {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+>>>>>>> 3da83af (PHP選手権用提出)
+.home_nav {
+  display: flex;
+  justify-content: f;
+  margin-left: 0;
+  z-index: 10;
+  margin-bottom: 1rem;
+<<<<<<< HEAD
+=======
+  width: 205px;
+>>>>>>> 3da83af (PHP選手権用提出)
+}
+.home_nav .unav_item {
+  width: auto;
+  height: 2rem;
+<<<<<<< HEAD
+  margin: 0 .2rem;
+=======
+  margin: 0;
+}
+.home_nav .unav_item + .unav_item  {
+  margin-left: 1rem;
+>>>>>>> 3da83af (PHP選手権用提出)
+}
+.home_nav .unav_item a {
+  font-size: .9rem;
+  color: #999;
+}
+.home_nav .unav_item i {
+font-size: 1.5rem;
+color: #333;
+}
+.home_booklist_item_ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 2%;
+  padding: 0 .5rem;
+}
+.home_booklist_item_ul h4 {
+  width: 100%;
+}
+.message_rate.home {
+  flex-direction:row;
+  justify-content: flex-start;
+}
+.home_review_box {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: .5rem;
+}
+.home_review_img {
+  width: 120px;
+}
+.home_review_text {
+  width: calc(100% - 120px);
+}
+<<<<<<< HEAD
+=======
+.home_review_text_h3 {
+  font-size: 1.2rem;
+  margin-bottom: .5rem;
+}
+.home_review_text_h3 a {
+  color: #2d89bf;
+}
+>>>>>>> 3da83af (PHP選手権用提出)
+.home_booklist {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin-bottom: 4rem;
+  gap: 1rem;
+}
+.home_booklist_img {
+  width: calc( 50% - .5rem );
+<<<<<<< HEAD
+  background-color: #eee;
+=======
+  /* background-color: #eee; */
+>>>>>>> 3da83af (PHP選手権用提出)
+  padding: .5rem .5rem .8rem;
+}
+.status_h3 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  border-bottom: 2px solid #222;
+  margin-bottom: 1rem;
+}
+.status_h4 {
+  font-size: 1.0rem;
+  font-weight: bold;
+  margin-bottom: .5rem;
+  background-color: #eee;
+  padding: .2rem .5rem .5rem;
+
+<<<<<<< HEAD
+=======
+}
+.pagenation {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 5rem 0 1rem;
+}
+.pagenation a {
+  display: inline-flex;
+  padding: 0 .3rem;
+  border: 1px solid #4260a1;
+  color: #4260a1;
+  margin: 0 .1rem;
+}
+.pagenation a.active {
+  background-color: #4260a1;
+  color: #fff;
+}
+.submit_btn {
+  margin: 2rem auto 1rem;
+  padding: 1.2rem 0;
+  width: 300px;
+  color: white;
+  background-color: #4260a1;
+  border-radius: 15rem;
+  display: block;
+}
+.submit_btn:hover {
+  opacity: .7;
+}
+.btn_camera {
+  background: #4260a1;
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: .5rem .8rem;
+  border-radius: .5rem;
+}
+.main .edit_insert {
+  max-width: 650px;
+  width: 100%;
+  margin: 0 auto;
+}
+.main .edit_insert .input_text {
+  width: 100%;
+}
+.main .h2.w40 {
+  max-width: 650px;
+  width: 100%;
+  margin: 0 auto 1rem;
+}
+.main .h2.home {
+  width: calc( 100% - 205px );
+  margin: 0 auto 1rem;
+}
+.valuation_column {
+  margin-bottom: 1rem;
+}
+.input_select {
+  margin-bottom: 1rem; 
+}
+
+#image_file{ 
+  font-size: 1rem;
+  /* width: 30rem; */
+  display: inline-block;
+}
+
+#image_file::file-selector-button {
+  width:13rem;
+  height: 2.5rem;
+  opacity: 0;
+  position: relative;
+  margin-bottom: .8rem;
+}
+
+#image_file::before{ 
+  position: absolute;
+  content: "カメラ / 画像選択";
+  width:13rem;
+  height: 2.5rem;
+  background: #4260a1;
+  color: #fff;
+  font-size: 1rem;
+  border-radius: .5rem;
+  text-align: center;
+  align-items: center;
+  display: grid;
+  cursor: pointer;
+}
+#prof_img_ex {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+}
+.prof_wrap {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 650px;
+  width: 100%;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  border-top: 2px solid #222;
+  border-bottom: 2px solid #222;
+}
+.prof_wrap dt {
+  width: 30%;
+  padding: 1.8em 1rem;
+  border-bottom: 1px solid #eee;
+  background: #eee;
+}
+.prof_wrap dd {
+  width: 65%;
+  padding: 1.8em 1rem;
+  border-bottom: 1px solid #eee;
+}
+.prof_wrap02 {
+  max-width: 650px;
+  width: 100%;
+  margin: 2rem auto;
+}
+.prof_wrap02 h2 {
+  margin-bottom: 1rem;
+  font-weight: bold;
+>>>>>>> 3da83af (PHP選手権用提出)
+}

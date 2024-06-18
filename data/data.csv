@@ -1,0 +1,918 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 4936,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "151nEAAAQBAJ",
+      "etag": "xWp34D0tZNI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/151nEAAAQBAJ",
+      "volumeInfo": {
+        "title": "婚約者は溺愛のふり　1巻",
+        "authors": [
+          "仲野えみこ"
+        ],
+        "publisher": "白泉社",
+        "publishedDate": "2022-05-02",
+        "description": "恋愛初心者バリキャリ女子×オールパーフェクト男子の偽装婚約!?ジャハリー家のラチエルは困窮する家のため、見た目・家柄・財力◎のアウレシア家次男：ファハドとの政略結婚を企てる。ダメ元で求婚したところ、何とまさかの OK!?皆の前では いちゃいちゃアピールをしようとするけれど、恋愛が苦手なラチエルはファハドに振り回されっぱなしで…？「帝の至宝」の仲野えみこが描く、嘘からはじまる恋物語 開幕!!（このコミックスには「婚約者は溺愛のふり［1話売り］ story01～04」を収録しております）",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000111507300100101900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "9c72091b40033284_A",
+          "imageBubbleVersion": "9c72091b40033284_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=151nEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=151nEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=151nEAAAQBAJ&printsec=frontcover&dq=%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=151nEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=151nEAAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "1",
+          "volumeSeries": [
+            {
+              "seriesId": "DJsuGwAAABAjgM",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 1
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 528,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 475,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=151nEAAAQBAJ&rdid=book-151nEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 528000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 475000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A_1%E5%B7%BB-sample-epub.acsm?id=151nEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A_1%E5%B7%BB-sample-pdf.acsm?id=151nEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=151nEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "恋愛初心者バリキャリ女子×オールパーフェクト男子の偽装婚約!?ジャハリー家のラチエルは困窮する家のため、見た目・家柄・財力◎のアウレシア家次男：ファハドとの政略結 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v-ZiEAAAQBAJ",
+      "etag": "BtJSKeQlmfo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v-ZiEAAAQBAJ",
+      "volumeInfo": {
+        "title": "婚約者は溺愛のふり［1話売り］　story01",
+        "authors": [
+          "仲野えみこ"
+        ],
+        "publisher": "白泉社",
+        "publishedDate": "2022-03-11",
+        "description": "恋愛下手のバリキャリ女子、偽装恋愛はじめます！ジャハリー家のラチエルは困窮する家のため、家柄良し・財力◎のアウレシア家次男：ファハドとの政略結婚を企てる。駄目元で彼に求婚したところ、何とまさかのOK！しかしラチエルの両親に「二人は本当に愛しあっているの？」と疑われ、いちゃいちゃアピールをしようとするけど…？ クレーム処理や税金の計算は得意だけど、恋愛ごとは苦手なんです！「帝の至宝」の仲野えみこが描く、嘘からはじまるラブロマンス開幕！(この話は、【電子版】LaLa 11月号（2021年）に収録されています。)",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000109980700100101900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 47,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "06baeb24dc8b8b40_A",
+          "imageBubbleVersion": "06baeb24dc8b8b40_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v-ZiEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v-ZiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=v-ZiEAAAQBAJ&printsec=frontcover&dq=%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=v-ZiEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=v-ZiEAAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "1",
+          "volumeSeries": [
+            {
+              "seriesId": "6cotGwAAABDF0M",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 1
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 132,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 119,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=v-ZiEAAAQBAJ&rdid=book-v-ZiEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 132000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 119000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A_1%E8%A9%B1%E5%A3%B2%E3%82%8A_s-sample-epub.acsm?id=v-ZiEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A_1%E8%A9%B1%E5%A3%B2%E3%82%8A_s-sample-pdf.acsm?id=v-ZiEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v-ZiEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "恋愛下手のバリキャリ女子、偽装恋愛はじめます！ジャハリー家のラチエルは困窮する家のため、家柄良し・財力◎のアウレシア家次男：ファハドとの政略結婚を企てる。駄目元 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rv33zgEACAAJ",
+      "etag": "0IGpfNWdT0s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rv33zgEACAAJ",
+      "volumeInfo": {
+        "title": "婚約者は溺愛のふり 1",
+        "authors": [
+          "仲野えみこ"
+        ],
+        "publishedDate": "2022-05-02",
+        "description": "恋愛初心者バリキャリ女子×オールパーフェクト男子の偽装婚約★!? ジャハリー家のラチエルは困窮する家のため、見た目・家柄・財力◎のアウレシア家次男:ファハドとの政略結婚を企てる。 ダメ元で求婚したところ、何とまさかの OK!? 皆の前ではいちゃいちゃアピールをしようとするけれど、恋愛が苦手なラチエルはファハドに振り回されっぱなしで...? 「帝の至宝」の仲野えみこが描く、嘘からはじまる恋物語開幕!! 2022年5月刊",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4592221214"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784592221210"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rv33zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rv33zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=rv33zgEACAAJ&dq=%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=rv33zgEACAAJ&dq=%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A_1.html?hl=&id=rv33zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rv33zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "恋愛初心者バリキャリ女子×オールパーフェクト男子の偽装婚約★!? ジャハリー家のラチエルは困窮する家のため、見た目・家柄・財力◎のアウレシア家次男 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-CWWEAAAQBAJ",
+      "etag": "gsyIjxccGOM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-CWWEAAAQBAJ",
+      "volumeInfo": {
+        "title": "婚約者は溺愛のふり　2巻",
+        "authors": [
+          "仲野えみこ"
+        ],
+        "publisher": "白泉社",
+        "publishedDate": "2022-11-04",
+        "description": "困窮する家のため、誰もが羨むハイスペック男子・ファハドの偽りの婚約者となったジャハリー家のラチエル。（※恋愛下手 ※７人連続フラレ記録保持者）いちゃらぶ婚約者を演じなくてはと思うも、顔色ひとつ変えずに「かわいい」「好きですよ」と言ってくるファハドに振り回されっぱなし…！そんな中、ジャハリー家の親戚と顔合わせをする事に…？この恋物語（ラブロマンス）は嘘？それとも―…？（このコミックスには「婚約者は溺愛のふり［1話売り］ story05～08」「婚約者は溺愛のふり 特別編［1話売り］ story01」を収録しております）",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000111507300200201900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 169,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "94dca00ea5d1153a_A",
+          "imageBubbleVersion": "94dca00ea5d1153a_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-CWWEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-CWWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=-CWWEAAAQBAJ&printsec=frontcover&dq=%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-CWWEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-CWWEAAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "2",
+          "volumeSeries": [
+            {
+              "seriesId": "DJsuGwAAABAjgM",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 2
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 528,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 475,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-CWWEAAAQBAJ&rdid=book--CWWEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 528000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 475000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A_2%E5%B7%BB-sample-epub.acsm?id=-CWWEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A_2%E5%B7%BB-sample-pdf.acsm?id=-CWWEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-CWWEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "困窮する家のため、誰もが羨むハイスペック男子・ファハドの偽りの婚約者となったジャハリー家のラチエル。（※恋愛下手 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zs--EAAAQBAJ",
+      "etag": "++AdRoriATA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zs--EAAAQBAJ",
+      "volumeInfo": {
+        "title": "婚約者は溺愛のふり　3巻",
+        "authors": [
+          "仲野えみこ"
+        ],
+        "publisher": "白泉社",
+        "publishedDate": "2023-06-05",
+        "description": "利害関係が一致し、契約的な婚約者となったラチエルとファハド。恋愛は下手くそだけど、だんだんファハドとの距離が近くなってきたのではないかと自信をつけるラチエル。（※ただし、いちゃいちゃモードには全然まったく少しも慣れない。）ある日、ラチエルの父が怪我をした事で出張先にファハドが一緒についてくる事に！？（このコミックスには「婚約者は溺愛のふり［1話売り］ story09～12」を収録しております）",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000111507300300301900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 169,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "d0e0e79927013cd3_A",
+          "imageBubbleVersion": "d0e0e79927013cd3_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zs--EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zs--EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=zs--EAAAQBAJ&printsec=frontcover&dq=%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zs--EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zs--EAAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "3",
+          "volumeSeries": [
+            {
+              "seriesId": "DJsuGwAAABAjgM",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 3
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 528,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 475,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zs--EAAAQBAJ&rdid=book-zs--EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 528000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 475000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A_3%E5%B7%BB-sample-epub.acsm?id=zs--EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A_3%E5%B7%BB-sample-pdf.acsm?id=zs--EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zs--EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "利害関係が一致し、契約的な婚約者となったラチエルとファハド。恋愛は下手くそだけど、だんだんファハドとの距離が近くなってきたのではないかと自信をつけるラチエル。（ ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y_nnEAAAQBAJ",
+      "etag": "DDnPsM1Q1pw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y_nnEAAAQBAJ",
+      "volumeInfo": {
+        "title": "婚約者は溺愛のふり　4巻",
+        "authors": [
+          "仲野えみこ"
+        ],
+        "publisher": "白泉社",
+        "publishedDate": "2024-01-04",
+        "description": "利害一致の契約的婚約関係を続けるラチエルとファハド。だんだん距離が近づいてきたと思いきや…別居フラグに突然のキス！？！しかも「間違えました」ってどういう事～！？（このコミックスには「婚約者は溺愛のふり［1話売り］ story13～16」を収録しております）",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000111507300400401900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "508592170a5aa4fd_A",
+          "imageBubbleVersion": "508592170a5aa4fd_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Y_nnEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Y_nnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=Y_nnEAAAQBAJ&printsec=frontcover&dq=%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Y_nnEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Y_nnEAAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "4",
+          "volumeSeries": [
+            {
+              "seriesId": "DJsuGwAAABAjgM",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 4
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 528,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 475,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Y_nnEAAAQBAJ&rdid=book-Y_nnEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 528000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 475000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A_4%E5%B7%BB-sample-epub.acsm?id=Y_nnEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A_4%E5%B7%BB-sample-pdf.acsm?id=Y_nnEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y_nnEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "利害一致の契約的婚約関係を続けるラチエルとファハド。だんだん距離が近づいてきたと思いきや…別居フラグに突然のキス！？！しかも「間違えました」ってどういう事～！？ ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9UxP0AEACAAJ",
+      "etag": "g7VfS8bKjCE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9UxP0AEACAAJ",
+      "volumeInfo": {
+        "title": "婚約者は溺愛のふり 4",
+        "authors": [
+          "仲野えみこ"
+        ],
+        "publishedDate": "2024-01-04",
+        "description": "利害一致の契約的婚約関係を続けるラチエルとファハド。だんだん距離が近づいてきたと思いきや...別居フラグに突然のキス!?!しかも「間違えました」ってどういう事~!? 2024年1月刊",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4592221249"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784592221241"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9UxP0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9UxP0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=9UxP0AEACAAJ&dq=%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=9UxP0AEACAAJ&dq=%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A_4.html?hl=&id=9UxP0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9UxP0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "利害一致の契約的婚約関係を続けるラチエルとファハド。だんだん距離が近づいてきたと思いきや...別居フラグに突然のキス!?!しかも「間違えました」ってどういう事~!? ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w-ZiEAAAQBAJ",
+      "etag": "meEnaJPJFnQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w-ZiEAAAQBAJ",
+      "volumeInfo": {
+        "title": "婚約者は溺愛のふり［1話売り］　story03",
+        "authors": [
+          "仲野えみこ"
+        ],
+        "publisher": "白泉社",
+        "publishedDate": "2022-03-11",
+        "description": "「帝の至宝」の仲野えみこが描く、偽装恋愛×アラビアンファンタジー！困窮する家のため顔良し、財力良し、家柄良しの、三拍子そろったモテ男・ファハドと契約的な婚約関係を結んだラチエル。荒らされたジャハリー家の別荘を買い取ってくれた流れで、同居をする事に……？(この話は、【電子版】LaLa 1月号（2022年）に収録されています。)",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:BT000109980700300301900209"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 33,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "5f42bb70a40ff3c6_A",
+          "imageBubbleVersion": "5f42bb70a40ff3c6_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w-ZiEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w-ZiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=w-ZiEAAAQBAJ&printsec=frontcover&dq=%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=w-ZiEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=w-ZiEAAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "3",
+          "volumeSeries": [
+            {
+              "seriesId": "6cotGwAAABDF0M",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 3
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 132,
+          "currencyCode": "JPY"
+        },
+        "retailPrice": {
+          "amount": 119,
+          "currencyCode": "JPY"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=w-ZiEAAAQBAJ&rdid=book-w-ZiEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 132000000,
+              "currencyCode": "JPY"
+            },
+            "retailPrice": {
+              "amountInMicros": 119000000,
+              "currencyCode": "JPY"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A_1%E8%A9%B1%E5%A3%B2%E3%82%8A_s-sample-epub.acsm?id=w-ZiEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A_1%E8%A9%B1%E5%A3%B2%E3%82%8A_s-sample-pdf.acsm?id=w-ZiEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w-ZiEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "「帝の至宝」の仲野えみこが描く、偽装恋愛×アラビアンファンタジー！困窮する家のため顔良し、財力良し、家柄良しの、三拍子そろったモテ男・ファハドと契約的な婚約関係 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qOfXzwEACAAJ",
+      "etag": "331WAhdWuN4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qOfXzwEACAAJ",
+      "volumeInfo": {
+        "title": "婚約者は溺愛のふり 3",
+        "authors": [
+          "仲野えみこ"
+        ],
+        "publishedDate": "2023-06-05",
+        "description": "利害関係が一致し、契約的な婚約者となったラチエルとファハド。 恋愛は下手くそだけど、だんだんファハドとの距離が近くなってきたのではないかと自信をつけるラチエル。 (※ただし、いちゃいちゃモードには全然まったく少しも慣れない。) ある日、ラチエルの父が怪我をした事で出張先にファハドが一緒についてくる事に!? 2023年6月刊",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4592221230"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784592221234"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qOfXzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qOfXzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=qOfXzwEACAAJ&dq=%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=qOfXzwEACAAJ&dq=%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A_3.html?hl=&id=qOfXzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qOfXzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "利害関係が一致し、契約的な婚約者となったラチエルとファハド。 恋愛は下手くそだけど、だんだんファハドとの距離が近くなってきたのではないかと自信をつけるラチエル。 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c-hfzwEACAAJ",
+      "etag": "rewhZVFI6fg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c-hfzwEACAAJ",
+      "volumeInfo": {
+        "title": "婚約者は溺愛のふり 2",
+        "authors": [
+          "仲野えみこ"
+        ],
+        "publishedDate": "2022-11",
+        "description": "困窮する家のため、誰もが羨むハイスペック男子・ファハドの偽りの婚約者となったジャハリー家のラチエル。(※恋愛下手 ※7人連続フラレ記録保持者) いちゃらぶ婚約者を演じなくてはと思うも、顔色ひとつ変えずに「かわいい」「好きですよ」と言ってくるファハドに振り回されっぱなし...! そんな中、ジャハリー家の親戚と顔合わせをする事に...? この恋物語(ラブロマンス)は嘘?それとも―...? 2022年11月刊",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4592221222"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784592221227"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=c-hfzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=c-hfzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=c-hfzwEACAAJ&dq=%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=c-hfzwEACAAJ&dq=%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%AF%E6%BA%BA%E6%84%9B%E3%81%AE%E3%81%B5%E3%82%8A_2.html?hl=&id=c-hfzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c-hfzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "困窮する家のため、誰もが羨むハイスペック男子・ファハドの偽りの婚約者となったジャハリー家のラチエル。(※恋愛下手 ※7人連続フラレ記録保持者) ..."
+      }
+    }
+  ]
+}
